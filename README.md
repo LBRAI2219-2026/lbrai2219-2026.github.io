@@ -2,6 +2,7 @@
 
 ## Ressources internes
 
+- **Description du projet** : [Wiki du cours](https://github.com/LBRAI2219-2026/ressources/wiki/Consignes-g%C3%A9n%C3%A9rales)
 - **Github organisation** : [https://github.com/LBRAI2219-2026](https://github.com/LBRAI2219-2026)
 - **Ressources et instruction** : [https://github.com/LBRAI2219-2026/ressources](https://github.com/LBRAI2219-2026/ressources)
 - **Codes partagés** : [https://github.com/LBRAI2219-2026/codes_partages](https://github.com/LBRAI2219-2026/codes_partages)
